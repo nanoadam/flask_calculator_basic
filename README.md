@@ -5,7 +5,7 @@
 Install Pipenv
 
 ```
-pip install pipenv
+pip3 install pipenv
 ```
 
 Run virtual enviornment
@@ -25,5 +25,5 @@ pipenv install flask
 #### File Setup
 
 ```python
-import flask from Flask, render template, request
+from flask import Flask, render template, request
 ```
