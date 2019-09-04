@@ -27,3 +27,15 @@ pipenv install flask
 ```python
 from flask import Flask, render template, request
 ```
+
+#### VSCode - Linting and Formatter Issues
+
+Make sure you are inside your virtual enviornment
+
+```
+pipenv install pylint
+```
+
+```
+pipenv install autopep8
+```
