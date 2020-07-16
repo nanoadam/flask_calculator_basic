@@ -1,6 +1,7 @@
 # Flask Python Calculator
 
-Be sure to check out my blog at: https://devwithnano.netlify.com as I will be having an written version of the tutorial coming soon! 
+WRITTEN TUTORIAL: https://devwithnano.netlify.app/posts/2020/2020-05-04-flask-calculator-tutorial/
+Be sure to check out my blog at: https://devwithnano.netlify.com.
 
 Install Pipenv
 
